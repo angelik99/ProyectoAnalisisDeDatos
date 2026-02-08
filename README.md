@@ -48,7 +48,7 @@ La variable objetivo es **riesgo_vida**, transformada a una variable binaria par
 
 ## Opción 1: Desde GitHub (recomendado)
 
-1. Abre el archivo `ACA2_AnalíticaTomaDecisiones.ipynb` en GitHub  
+1. Abre el archivo `Proyecto_ML_PQR_Cundinamarca.ipynb` en GitHub  
 2. Haz clic en **Open in Colab** (si aparece)  
    - O copia la URL del notebook
 3. Ve a https://colab.research.google.com
